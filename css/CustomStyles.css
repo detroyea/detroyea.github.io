@@ -10,10 +10,15 @@ body, div {
     margin-bottom: 35px;
 }
 
+#Moozic {
+    text-align: center;
+}
+
 @media (min-width: 992px) {
     
     #Moozic {
         padding-top: 200px;
+        text-align: right;
     }
 }
 
