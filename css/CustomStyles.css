@@ -5,3 +5,10 @@ body, div {
 	
 	font-family: 'Raleway', sans-serif;
 }
+
+@media (min-width: 992px) {
+    
+    #Moozic {
+        padding-top: 200px;
+    }
+}
