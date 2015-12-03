@@ -6,9 +6,27 @@ body, div {
 	font-family: 'Raleway', sans-serif;
 }
 
+#notone {
+    margin-bottom: 35px;
+}
+
 @media (min-width: 992px) {
     
     #Moozic {
         padding-top: 200px;
+    }
+}
+
+@media (max-width: 707px){
+    
+    #tweeter {
+        display: none;
+    }
+}
+
+@media (max-width: 791px){
+    
+    .col-sm-3{
+        align-content: center;
     }
 }
